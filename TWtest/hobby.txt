@@ -1,0 +1,21 @@
+
+
+user--1 hobby is criket
+
+user--2 hobby is game
+
+user--3 hobby is drawing
+
+user--4 hobby is music
+
+user--5 hobby is game
+
+user--1 hobby is criket
+
+user--2 hobby is music
+
+user--3 hobby is gym
+
+user--4 hobby is movie
+
+user--5 hobby is songs
